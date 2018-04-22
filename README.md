@@ -9,4 +9,4 @@ Made with tkinter and sqlite database**
 - adding/updating/deleting entries
 
 Example: 
-![alt text](https://raw.githubusercontent.com/dawidbudzynski/book_database_tkinter/master/Example.png)
+![alt text](https://raw.githubusercontent.com/dawidbudzynski/book_database_tkinter/master/example.gif)
