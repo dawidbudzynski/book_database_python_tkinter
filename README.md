@@ -1,4 +1,4 @@
-# book_database_tkinter
+# Book Database
 
 **A desktop graphical application that interacts with a database and stores informations about books. 
 Made with tkinter and sqlite database**
