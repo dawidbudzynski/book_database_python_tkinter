@@ -14,5 +14,5 @@ Made with tkinter and sqlite database
 * tkinter
 * sqlite
 
-Example: 
+## Demo 
 ![alt text](https://raw.githubusercontent.com/dawidbudzynski/book_database_tkinter/master/example.gif)
