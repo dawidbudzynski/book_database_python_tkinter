@@ -1,7 +1,8 @@
 # Book Database
 
 ## General info
-A desktop graphical application that interacts with a database and stores informations about books. 
+A desktop graphical application that interacts with a database and stores informations about books.
+
 Made with tkinter and sqlite database
 
 ## Main functions
